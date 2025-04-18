@@ -24,7 +24,7 @@ For all of these ^^ you need to install [LSP](https://github.com/sublimelsp/LSP)
 [![Package Control](https://img.shields.io/packagecontrol/dt/Anaconda.svg)](https://packagecontrol.io/packages/Anaconda)
 
 
-# Anaconda 
+# Android.X.Anaconda/Android.Developer.com
 
 
                                                           |
